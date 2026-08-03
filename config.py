@@ -27,9 +27,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
 OWNER_USERNAME = getenv("OWNER_USERNAME", "@Brucerich12")
-BOT_USERNAME = getenv("BOT_USERNAME", "@Queenhoneybot")
-BOT_NAME = getenv("BOT_NAME", "queen")
-ASSUSERNAME = getenv("ASSUSERNAME", "queen music")
+BOT_USERNAME = getenv("BOT_USERNAME", "@DoomAudiobot")
+BOT_NAME = getenv("BOT_NAME", "doom ")
+ASSUSERNAME = getenv("ASSUSERNAME", "doom music")
 
 # Vars For API End Pont.
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
